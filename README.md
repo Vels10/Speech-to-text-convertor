@@ -6,5 +6,5 @@ To download Speech recognition:
     Use Commmand: pip install Speechrecognition 
     
 To download PyAudio:
-    Use Command : pip install pipwin
-                  pipwin install pyaudio
+    Use Command : (i)  pip install pipwin
+                  (ii) pipwin install pyaudio
